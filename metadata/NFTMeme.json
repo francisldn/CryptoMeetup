@@ -1,0 +1,11 @@
+{
+    "name":"NFT Meme",
+    "image":"https://gateway.pinata.cloud/ipfs/QmeVDJ9pwWqMxJ4BvQJaWzsx3Rmd2LoEU8BAkXB3KB5HvC",
+    "attributes":[
+    {"trait_type":"Type","value":"Meme"},
+    {"trait_type":"Animal","value":"Toad"},
+    {"trait_type":"Colour","value":"Green"},
+    {"trait_type":"Size","value":"Fat"}
+    ],
+    "description":"**Casual Cryptocurrency and Coffee** is a community with the principle aim to further educate ourselves regarding Cryptocurrencies, Blockchain and Crypto assets such as NFTs. We welcome anyone with an open-mind and a desire to learn. We are not here to offer financial advice or boast to others about our holdings. The group aims to bring newbies and experienced holders together into a positive community based in London."
+}

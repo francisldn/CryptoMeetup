@@ -1,0 +1,11 @@
+{
+    "name":"NFT Coin",
+    "image":"https://gateway.pinata.cloud/ipfs/QmSNwdS3cLg4UKF968xMXH7p3ftNDgTm1RNvXVK2oYkyCA",
+    "attributes":[
+    {"trait_type":"Type","value":"Logo"},
+    {"trait_type":"Object","value":"Gold Coin"},
+    {"trait_type":"Colour","value":"Yellow"},
+    {"trait_type":"Surface","value":"Shiny"}
+    ],
+    "description":"**Casual Cryptocurrency and Coffee** is a community with the principle aim to further educate ourselves regarding Cryptocurrencies, Blockchain and Crypto assets such as NFTs. We welcome anyone with an open-mind and a desire to learn. We are not here to offer financial advice or boast to others about our holdings. The group aims to bring newbies and experienced holders together into a positive community based in London."
+}
